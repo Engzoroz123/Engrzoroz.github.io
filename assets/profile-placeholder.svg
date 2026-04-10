@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" fill="none">
-  <rect width="800" height="800" fill="#0B0B0B"/>
-  <circle cx="400" cy="290" r="150" fill="#1A1A1A" stroke="#F5F5F5" stroke-opacity="0.25" stroke-width="4"/>
-  <path d="M195 650c34-106 118-170 205-170 87 0 171 64 205 170" fill="#1A1A1A" stroke="#F5F5F5" stroke-opacity="0.25" stroke-width="4"/>
-  <text x="50%" y="92%" text-anchor="middle" fill="#F5F5F5" fill-opacity="0.78" font-size="54" font-family="Arial, Helvetica, sans-serif" letter-spacing="8">ADD YOUR DP</text>
-</svg>
