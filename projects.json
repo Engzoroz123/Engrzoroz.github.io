@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fingerprint-light-control-system",
+    "title": "Fingerprint Light Control System",
+    "category": "Security & Automation",
+    "price": "Custom quote",
+    "description": "ESP32-S3, fingerprint sensor, OLED, DFPlayer Mini, and relay based access control project with visual and audio feedback.",
+    "why": "Ideal for smart room security, lab access control, and professional electronics demo projects.",
+    "tags": ["ESP32-S3", "R307", "OLED", "Relay", "DFPlayer"],
+    "images": []
+  },
+  {
+    "id": "esp32-camera-to-tft-display",
+    "title": "ESP32 Camera to TFT Display",
+    "category": "Wireless Vision System",
+    "price": "Custom quote",
+    "description": "Camera stream sent wirelessly and displayed on TFT LCD, designed for smart monitoring and embedded video interfaces.",
+    "why": "Strong project for smart surveillance, embedded displays, and camera-based IoT demos.",
+    "tags": ["ESP32-CAM", "TFT", "WiFi", "Streaming"],
+    "images": []
+  },
+  {
+    "id": "blynk-controlled-5-dof-arm",
+    "title": "Blynk Controlled 5 DOF Arm",
+    "category": "Robotics",
+    "price": "Custom quote",
+    "description": "A mobile-controlled 5 DOF robotic arm using ESP32, smooth servo motion, and IoT slider control.",
+    "why": "Perfect for client demos, robotics exhibitions, learning labs, and custom automation concepts.",
+    "tags": ["Blynk", "ESP32", "Servo", "Robotic Arm"],
+    "images": []
+  },
+  {
+    "id": "hydraulic-excavator-with-esp32",
+    "title": "Hydraulic Excavator with ESP32",
+    "category": "Mobile Control Project",
+    "price": "Custom quote",
+    "description": "A mini hydraulic excavator system controlled through modern electronics and wireless app-based control.",
+    "why": "Looks premium, moves impressively, and attracts attention from students and clients immediately.",
+    "tags": ["Hydraulic", "ESP32", "Blynk", "Control"],
+    "images": []
+  },
+  {
+    "id": "muscle-controlled-robotic-hand",
+    "title": "Muscle Controlled Robotic Hand",
+    "category": "Biomedical Robotics",
+    "price": "Custom quote",
+    "description": "Sensor-driven robotic hand that responds to human muscle activity for a futuristic control experience.",
+    "why": "Strong final year project category and very eye-catching for demonstrations or social media promotion.",
+    "tags": ["EMG", "Arduino", "Robotic Hand", "Sensors"],
+    "images": []
+  },
+  {
+    "id": "raspberry-pi-ai-robot",
+    "title": "Raspberry Pi AI Robot",
+    "category": "AI Robotics",
+    "price": "Custom quote",
+    "description": "A Raspberry Pi based robot using camera, sensors, Python, and AI-assisted features for smart responses and navigation ideas.",
+    "why": "Excellent for advanced clients who want AI + robotics integration in one package.",
+    "tags": ["Raspberry Pi", "Python", "OpenCV", "AI"],
+    "images": []
+  }
+]
