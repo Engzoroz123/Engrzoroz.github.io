@@ -6,7 +6,7 @@ window.SITE_DATA = {
     experience: "10 years in electronics",
     tagline: "Custom Electronics • Robotics • Smart Automation",
     about: "I build custom electronics, robotics systems, embedded automation, wireless control projects, AI-connected prototypes, and attractive client-ready solutions. My focus is to turn ideas into real working projects that look premium and deliver strong value.",
-    dp: "assets/profile-placeholder.svg",
+    dp: "assets/profile.jpg.svg",
     whatsappNumber: "923081386235",
     youtubeLabel: "Engr zoroz",
     youtubeUrl: "https://www.youtube.com/results?search_query=Engr+zoroz",
